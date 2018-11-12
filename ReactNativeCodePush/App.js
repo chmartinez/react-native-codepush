@@ -18,7 +18,7 @@ const instructions = Platform.select({
 
 type Props = {};
 export default class App extends Component<Props> {
-  onPress = () => alert('Feature not ready. Sorry!')
+  onPress = () => alert('CodePush is in da house!')
   render() {
     return (
       <View style={styles.container}>
