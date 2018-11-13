@@ -26,12 +26,12 @@ export default class App extends Component<Props> {
     });
   }
 
-  onPress = () => alert('Feature not ready');
+  onPress = () => alert('CodePush is in da house!');
 
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to React Native!</Text>
+        <Text style={styles.welcome}>Welcome to ReactNativeCodePuhs!</Text>
         <Text style={styles.instructions}>To get started, edit App.js</Text>
         <Button title="Check this out!" onPress={this.onPress} />
       </View>
