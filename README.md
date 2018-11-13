@@ -1,3 +1,5 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/1df42b44-df15-43f8-9ca3-6d3bce0d86bc/branches/master/badge)](https://appcenter.ms)
+
 # ReactNativeCodePuhs 
 An React Native app to test AppCenter's CodePush (and yes, I called "Puhs", not "Push").
 My main objective was to see how to setup CodePush with a real React Native app and how to use AppCenter to distribute new versions of my app (not external App Stores where involved).
